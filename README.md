@@ -1,10 +1,6 @@
-🚨🚨🚨🚨🚨 Maintainers needed 🚨🚨🚨🚨🚨
-
-I am abandoning the project and will archive the repository after January 1st 2022. Ping me if you wish to take this repository over.
-
 # GraphQL Loader plugin for CRACO
 
-Plugin for [craco](https://www.npmjs.com/package/@craco/craco) which allows configuring the [graphql-tag/loader](https://github.com/apollographql/graphql-tag#webpack-loading-and-preprocessing) inside of [react-scripts](https://www.npmjs.com/package/react-scripts) applications.
+Forked version of [craco-graphql-loader](https://www.npmjs.com/package/craco-graphql-loader) with updated dependencies. Plugin for [craco](https://www.npmjs.com/package/@craco/craco) which allows configuring the [graphql-tag/loader](https://github.com/apollographql/graphql-tag#webpack-loading-and-preprocessing) inside of [react-scripts](https://www.npmjs.com/package/react-scripts) applications.
 
 ## Usage
 
